@@ -1,23 +1,50 @@
-# Challenge 1 - Alura LATAM: Análisis de Ventas
+# 📊 Análisis de Tiendas
 
-Este proyecto consiste en un análisis de ventas y rendimiento de tiendas, con el objetivo de ayudar al señor Juan a decidir qué tienda vender para invertir en un nuevo negocio.
+Este proyecto tiene como objetivo realizar un análisis detallado del rendimiento de cuatro tiendas, para ayudar al señor Juan a tomar una decisión  sobre cuál de ellas vender e invertir en un nuevo negocio.
 
-Evaluar cuál de las cuatro tiendas tiene un desempeño menor, brindando una base sólida para que el señor Juan tome una decisión informada.
+## 🎯 Objetivo
 
-1. **Facturación total de cada tienda**  
-   - ¿Cuál tienda vende más?
+Evaluar el desempeño de cada tienda a partir de distintos indicadores clave, con el fin de identificar cuál presenta un menor rendimiento.
 
-2. **Categorías más populares por tienda**  
-   - ¿Qué productos se venden más en cada una?
+---
 
-3. **Promedio de evaluación de los clientes**  
-   - ¿Qué tan satisfechos están los compradores?
+## 🔍 Aspectos Analizados
 
-4. **Productos más y menos vendidos por tienda**
+- **💰 Facturación total por tienda**  
+  Identificar la facturacion total de cada tienda .
 
-5. **Costo promedio de envío por tienda**  
-   - Desde la tienda hasta el domicilio del cliente.
+- **📦 Categorías más populares por tienda**  
+  Analizar qué tipos de productos se venden más en cada tienda.
 
-Autora:
+- **⭐ Promedio de evaluación de los clientes**  
+  Medir el nivel de satisfacción de los compradores.
 
-**Jessica Robles**  
+- **📉 Productos más y menos vendidos por tienda**  
+  Identificar tanto los productos estrella como los menos demandados.
+
+- **🚚 Costo promedio de envío por tienda**  
+  Calcular el promedio de gastos de envío de cada tienda.
+
+---
+## 🛠️ Tecnologías y Lenguajes Utilizados
+
+- **Python 🐍**  
+  Para el análisis de datos y la creación de visualizaciones.
+
+- **Pandas 📊**  
+  Manipulación y análisis de datos tabulares.
+
+- **Matplotlib y Seaborn 📈**  
+  Generación de gráficos y visualizaciones estadísticas.
+
+- **Google Colab📓**  
+  Entorno interactivo para desarrollar y documentar el análisis.
+
+- **Git & GitHub 🔧**  
+  Control de versiones y publicación del proyecto.
+  
+  ---
+
+## 👩‍💻 Autora
+
+**Jessica Robles**
